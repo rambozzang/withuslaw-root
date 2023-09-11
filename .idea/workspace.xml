@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12629fe3-d514-4cdc-bb91-3d7ee0472f79" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../../../app/withuslaw-root">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../../../app/withuslaw-root/Api-Server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../../../app/withuslaw-root/demo">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/../../../app/withuslaw-root/App-woori">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../../../app/withuslaw-root">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../../../app/withuslaw-root/Auth">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../../../app/withuslaw-root/Common">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../../../app/withuslaw-root/Config">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../../../app/withuslaw-root/Image">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../../../app/withuslaw-root/demo">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../../../app/withuslaw-root/Admin-Server">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="com.haulmont.jpb.NewRecord" />
+        <option value="com.haulmont.jpb.JpaEntity" />
+        <option value="com.haulmont.jpb.NewClass" />
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2UqUFMTb3Y72uEjn0HWUhqgWEbq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/bk/work/app/withuslaw-root/Common/src/main/java/com/withuslaw/common&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bk/work/app/withuslaw-root/Image-Server/src/main/java/com/withuslaw/Image/util&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.1697793&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.haulmont.jpb.mapperDeclaration&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;2f857591a0c65953aade833b18d6e5fb&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../app/withuslaw-root/Image-Server/src/main/java/com/withuslaw/Image/util" />
+      <recent name="$PROJECT_DIR$/../../../app/withuslaw-root/Common/src/main/resources" />
+      <recent name="$PROJECT_DIR$/../../../app/withuslaw-root/Image-Server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/../../../app/withuslaw-root/Config/src/main/resources" />
+      <recent name="$PROJECT_DIR$/../../../app/withuslaw-root/Batch-Woori-Server/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../app/withuslaw-root/Common/src/main/java/com/withuslaw/common/config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.withuslaw.Image.util" />
+      <recent name="com.withuslaw.Auth.config" />
+      <recent name="com.withuslaw.AppWoori" />
+      <recent name="com.withuslaw.Auth.user" />
+      <recent name="com.withuslaw.Config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AuthApplication">
+    <configuration name="withuslaw-root [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../app/withuslaw-root" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="withuslaw-root [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../app/withuslaw-root" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="withuslaw-root:Admin-Server [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../app/withuslaw-root/Admin-Server" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="withuslaw-root:Auth [properties]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../app/withuslaw-root/Auth" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="properties" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="withuslaw-root:Auth [resolvableConfigurations]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../app/withuslaw-root/Auth" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="resolvableConfigurations" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="withuslaw-root.Admin-Server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.withuslaw.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="withuslaw-root.Api-Server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.withuslaw.ApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppWooriApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="dev" />
+      <module name="withuslaw-root.App-Woori-Server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.withuslaw.AppWooriApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="dev" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="withuslaw-root.Auth-Server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.withuslaw.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatchWooriApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="dev" />
+      <module name="withuslaw-root.Batch-Woori-Server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.withuslaw.BatchWooriApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonAppication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="withuslaw-root.Common.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.withuslaw.CommonAppication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageAppication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="dev" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="withuslaw-root.Image-Server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.withuslaw.ImageAppication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.withuslaw-root [build]" />
+      <item itemvalue="Gradle.withuslaw-root [clean]" />
+      <item itemvalue="Gradle.withuslaw-root:Admin-Server [clean]" />
+      <item itemvalue="Gradle.withuslaw-root:Auth [properties]" />
+      <item itemvalue="Gradle.withuslaw-root:Auth [resolvableConfigurations]" />
+      <item itemvalue="Spring Boot.ApiApplication" />
+      <item itemvalue="Spring Boot.CommonAppication" />
+      <item itemvalue="Spring Boot.AdminApplication" />
+      <item itemvalue="Spring Boot.ImageAppication" />
+      <item itemvalue="Spring Boot.AppWooriApplication" />
+      <item itemvalue="Spring Boot.AuthApplication" />
+      <item itemvalue="Spring Boot.BatchWooriApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.withuslaw-root [clean]" />
+        <item itemvalue="Gradle.withuslaw-root [build]" />
+        <item itemvalue="Gradle.withuslaw-root:Admin-Server [clean]" />
+        <item itemvalue="Gradle.withuslaw-root:Auth [resolvableConfigurations]" />
+        <item itemvalue="Gradle.withuslaw-root:Auth [properties]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="SSH_CONFIG" />
+    <option name="myConnectionId" value="root@211.251.254.64:21006 password" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="12629fe3-d514-4cdc-bb91-3d7ee0472f79" name="변경" comment="" />
+      <created>1693666499297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693666499297</updated>
+      <workItem from="1693666500674" duration="8221000" />
+      <workItem from="1693675423149" duration="18097000" />
+      <workItem from="1693788143437" duration="15676000" />
+      <workItem from="1693817005426" duration="1250000" />
+      <workItem from="1693818270997" duration="2709000" />
+      <workItem from="1693832988627" duration="1757000" />
+      <workItem from="1693834759303" duration="172000" />
+      <workItem from="1693834938277" duration="7583000" />
+      <workItem from="1693871583667" duration="353000" />
+      <workItem from="1693871948454" duration="506000" />
+      <workItem from="1693874981278" duration="75000" />
+      <workItem from="1693875157990" duration="59000" />
+      <workItem from="1693875245780" duration="4240000" />
+      <workItem from="1693882108650" duration="1408000" />
+      <workItem from="1693888556715" duration="401000" />
+      <workItem from="1693888963862" duration="4881000" />
+      <workItem from="1693895006515" duration="517000" />
+      <workItem from="1693895677905" duration="1371000" />
+      <workItem from="1693897062396" duration="477000" />
+      <workItem from="1693897543339" duration="344000" />
+      <workItem from="1693897891194" duration="632000" />
+      <workItem from="1693900222399" duration="3668000" />
+      <workItem from="1693903996549" duration="53000" />
+      <workItem from="1693904056932" duration="2249000" />
+      <workItem from="1693910236855" duration="9021000" />
+      <workItem from="1693961251982" duration="4488000" />
+      <workItem from="1693966755789" duration="1325000" />
+      <workItem from="1693975159225" duration="12107000" />
+      <workItem from="1693989985368" duration="1126000" />
+      <workItem from="1693991120379" duration="1830000" />
+      <workItem from="1694004302018" duration="100000" />
+      <workItem from="1694004422267" duration="772000" />
+      <workItem from="1694005205935" duration="3755000" />
+      <workItem from="1694008983065" duration="710000" />
+      <workItem from="1694010120211" duration="504000" />
+      <workItem from="1694010634390" duration="1583000" />
+      <workItem from="1694012226733" duration="1201000" />
+      <workItem from="1694043072267" duration="4601000" />
+      <workItem from="1694047693261" duration="5532000" />
+      <workItem from="1694053685716" duration="3317000" />
+      <workItem from="1694057023624" duration="1819000" />
+      <workItem from="1694063138422" duration="3078000" />
+      <workItem from="1694066237250" duration="307000" />
+      <workItem from="1694066548281" duration="3127000" />
+      <workItem from="1694069694146" duration="119000" />
+      <workItem from="1694070014509" duration="7639000" />
+      <workItem from="1694090220514" duration="66000" />
+      <workItem from="1694090288878" duration="4516000" />
+      <workItem from="1694096247684" duration="12237000" />
+      <workItem from="1694141495055" duration="3834000" />
+      <workItem from="1694149907206" duration="744000" />
+      <workItem from="1694151194526" duration="4696000" />
+      <workItem from="1694157885987" duration="12199000" />
+      <workItem from="1694306971565" duration="17720000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:com.google.protobuf:protobuf-java" />
+    <option featureType="dependencySupport" implementationName="java:com.google.cloud:google-cloud-storage" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:io.grpc:grpc-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.batch:spring-batch-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../app/withuslaw-root/build.gradle</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../app/withuslaw-root/build.gradle</url>
+          <line>227</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.boot.context.config.InvalidConfigDataPropertyException" package="org.springframework.boot.context.config" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

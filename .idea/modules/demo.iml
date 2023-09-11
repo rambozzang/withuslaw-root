@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="demo" external.linked.project.path="$MODULE_DIR$/../../../../../app/withuslaw-root/demo" external.root.project.path="$MODULE_DIR$/../../../../../app/withuslaw-root/demo" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../app/withuslaw-root/demo">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../app/withuslaw-root/demo/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../app/withuslaw-root/demo/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="709ae98b-0d65-4e61-84b1-acf37e1389dd" />
+  </component>
+</module>

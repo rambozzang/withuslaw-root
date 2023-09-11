@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../app/withuslaw-root" />
+        <option name="gradleJvm" value="18" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../app/withuslaw-root" />
+            <option value="$PROJECT_DIR$/../../../app/withuslaw-root/Admin-Server" />
+            <option value="$PROJECT_DIR$/../../../app/withuslaw-root/Api-Server" />
+            <option value="$PROJECT_DIR$/../../../app/withuslaw-root/App-Woori-Server" />
+            <option value="$PROJECT_DIR$/../../../app/withuslaw-root/Auth-Server" />
+            <option value="$PROJECT_DIR$/../../../app/withuslaw-root/Batch-Woori-Server" />
+            <option value="$PROJECT_DIR$/../../../app/withuslaw-root/Common" />
+            <option value="$PROJECT_DIR$/../../../app/withuslaw-root/Config" />
+            <option value="$PROJECT_DIR$/../../../app/withuslaw-root/Image-Server" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
